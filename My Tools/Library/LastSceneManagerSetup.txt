@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/ReplaceTool Window.unity
+- path: Assets/Scenes/ReadOnly Attribute.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
