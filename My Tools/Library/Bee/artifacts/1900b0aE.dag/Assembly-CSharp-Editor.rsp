@@ -331,6 +331,8 @@
 "Assets/Scripts/Editor/FolderCreatorWizard.cs"
 "Assets/Scripts/Editor/MessageInfoEditor.cs"
 "Assets/Scripts/Editor/ReadOnlyDrawer.cs"
+"Assets/Scripts/Editor/ReplaceData.cs"
+"Assets/Scripts/Editor/ReplaceToolWindow.cs"
 -langversion:8.0
 
 /deterministic
