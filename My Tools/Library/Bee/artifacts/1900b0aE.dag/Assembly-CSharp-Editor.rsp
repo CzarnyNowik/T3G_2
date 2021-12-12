@@ -330,6 +330,7 @@
 "Assets/Scripts/Editor/CustomWindow.cs"
 "Assets/Scripts/Editor/FolderCreatorWizard.cs"
 "Assets/Scripts/Editor/MessageInfoEditor.cs"
+"Assets/Scripts/Editor/ReadOnlyDrawer.cs"
 -langversion:8.0
 
 /deterministic
